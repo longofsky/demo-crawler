@@ -7,6 +7,8 @@
 		<publish>C:\\publish\\${artifactId}</publish>
 	</properties>
 
+
+
 	<dependencies>
 		<dependency>
 			<groupId>org.apache.httpcomponents</groupId>
